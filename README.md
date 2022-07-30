@@ -31,8 +31,6 @@ Random forest was the best model for the analysis  with an accuracy of 0.78 and 
 
 ![image](https://user-images.githubusercontent.com/85990318/181904145-5fb4bcbd-c1b1-444f-a864-30d21c9dc45d.png)
 
-![image](https://user-images.githubusercontent.com/85990318/181904013-56f84088-71cd-4ed7-84a1-0695d63583be.png)
-
 ![image](https://user-images.githubusercontent.com/85990318/181904024-1f93d1d3-7a55-484d-89e4-5abd34edfe25.png)
 
 ![image](https://user-images.githubusercontent.com/85990318/181904035-f857b3ca-d05b-4594-9fe8-69a3ec2636de.png)
