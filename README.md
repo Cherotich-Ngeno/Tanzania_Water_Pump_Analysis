@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This analysis contains an analysis of Tanzanian water pump data in order to provide the Tanzania Government a tool with which to determine water pump functionality and information on how to improve pump maintenance efficiency. This analysis will focus to determining which factors needs attention to increase efficiency of the water pumps. The Tanzanian Government can use this analysis to improve prediction and identification of which pumps are non functional or may need repair, therefore increasing access to potable water across Tanzania.
+This is an analysis of Tanzanian water pump data in order to provide the Tanzania Government a tool with which to determine water pump functionality and information on how to improve pump maintenance efficiency. This analysis will focus to determining which factors needs attention to increase efficiency of the water pumps. The Tanzanian Government can use this analysis to improve prediction and identification of which pumps are non functional or may need repair, therefore increasing access to potable water across Tanzania.
 
 ## Business Problem
 
@@ -17,7 +17,7 @@ The Tanzania Government is trying to improve their water pump maintenance operat
 
 ## Data
 
-The data set contains 41 variables describing pump functionality status (the target variable), pump geographic location, what kind of pump is operating, when it was installed, how it is managed, etc. It includes data on 59,400 individual pumps recorded from 2011-2013.
+The data set contains  various variables describing pump functionality status (the target variable), pump geographic location, what kind of pump is operating, when it was installed, how it is managed, etc. It includes data on 59,400 individual pumps recorded from 2011-2013.
 
 ## Method
 
