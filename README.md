@@ -3,7 +3,7 @@
 
 # Tanzania Water Pump Analysis
 
-#### Data Science Project, May 2022
+#### Data Science Project, July 2022
 
 #### By **Nelly Ng’eno**
 
@@ -34,11 +34,13 @@ Random forest was the best model for the analysis  with an accuracy of 0.78 and 
 # Population vs the status of the pump
 
 ![image](https://user-images.githubusercontent.com/85990318/181903391-1cfb23a5-210d-4fb8-8e2e-8b6b5e9ec982.png)
+
 The figure above shows how pumps in areas of lower population may be more likely to be needing repair or non functional
 
 # Water quantity vs the status of the pump
 
 ![image](https://user-images.githubusercontent.com/85990318/181903461-fd402928-dcd0-4913-859a-ace79bfe580b.png)
+
 The figure above shows how as water quantity decreases, pumps are more likely to be non functional
 
 # Location vs the status of the pump
